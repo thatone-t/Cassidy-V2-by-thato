@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "menherakun2026@gmail.com",
+    "password": "KEREOSENE507",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,25 +17,25 @@
     "ignoreCommand": []
   },
   "creator": [
-    "61591895887142"
+    "61588828817306"
   ],
   "developer": [
-    "61591895887142"
+    "61588828817306"
   ],
   "adminBot": [
-    "61591895887142"
+    "61588828817306"
   ],
   "premium": [
-    "61591895887142"
+    "61588828817306"
   ],
   "vipuser": [
-    "61591895887142"
+    "61588828817306"
   ],
   "premiumUsers": [
-    "61591895887142"
+    "61588828817306"
   ],
   "devUsers": [
-    "61591895887142"
+    "61588828817306"
   ],
   "developerOnly": {
     "enable": false,
@@ -54,7 +54,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "ᴏʀᴏᴠᴏʟᴀ-ɪᴀ",
+  "nickNameBot": "coffee - bot🧋",
   "prefix": "+",
   "noPrefix": true,
   "database": {
